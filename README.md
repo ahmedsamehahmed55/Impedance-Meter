@@ -12,4 +12,4 @@ was capable of providing accurate impedance measurements with an error of 6% ove
 of 300 Ω to 0.7 MΩ.
 
 ---
-# [Download the full project report (PDF)](https://drive.google.com/file/d/12qlmqc8IfWwISucRezgqM2xRMxlNn1sp/view?usp=sharing)
+# [Download the full project report (PDF)](Impedance measurement CAD-Schematics-testing/Pics_final_device.pdf)
