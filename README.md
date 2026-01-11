@@ -1,6 +1,15 @@
-## Wearable ECG Monitoring 
+## Impedance Meter
 
-System This project presents the design and implementation of a low‑power, portable ECG monitoring device built around the Arduino Nano 33 IoT. It focuses on achieving reliable real‑time telemetry while minimizing energy consumption through smart wireless management and data‑transmission optimizations. The system also explores an impedance‑measurement module for assessing electrode‑skin contact quality, paving the way for improved signal accuracy in future wearable healthcare applications.
+ECG electrodes are a crucial component for accurate ECG measurement. In the
+development of wearable devices, key factors include user comfort and the reusability of the
+electrodes. To ensure signal fidelity, both the magnitude and stability of the electrode-skin
+impedance must be considered. Measuring only DC resistance fails to accurately represent the
+behavior of biological tissues and electrodes in an AC context. Therefore, developing a
+dedicated impedance measurement device was a crucial part of this project. This device was
+based on the Arduino Nano 33 IoT and its built-in Digital-to-Analog Converter (DAC) and
+Analog-to-Digital Converter (ADC). By using the concept of voltage division, the Arduino
+was capable of providing accurate impedance measurements with an error of 6% over a range
+of 300 Ω to 0.7 MΩ.
 
 ---
-# [Download the full project report (PDF)](https://drive.google.com/file/d/12qlmqc8IfWwISucRezgqM2xRMxlNn1sp/view?usp=sharing)
+# [Download the full project report (PDF)](ImpedancemeasurementCAD-Schematics-testing/Pics_final_device.pdf)
