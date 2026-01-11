@@ -17,7 +17,6 @@ of 300 Ω to 0.7 MΩ.
 <p align="center">
   <img src="Impedance-measurement-CAD-Schematics-testing/Schematic_Impedance_meter.png" width="400" alt="Device Picture">
 </p>
->
 
 
 ## Device Image
@@ -27,7 +26,7 @@ Here is a picture of the device:
 <p align="center">
   <img src="Impedance-measurement-CAD-Schematics-testing/pic_device.jpg" width="400" alt="Device Picture">
 </p>
->
+
 
 ---
 # [Download the full project report (PDF)](Impedance-measurement-CAD-Schematics-testing/Pics_final_device.pdf)
