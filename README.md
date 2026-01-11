@@ -11,5 +11,13 @@ Analog-to-Digital Converter (ADC). By using the concept of voltage division, the
 was capable of providing accurate impedance measurements with an error of 6% over a range
 of 300 Ω to 0.7 MΩ.
 
+
+
+## Device Image
+
+Here is a picture of the device:
+
+![Device Picture](Impedance-measurement-CAD-Schematics-testing/pic_device.jpg)
+
 ---
 # [Download the full project report (PDF)](Impedance-measurement-CAD-Schematics-testing/Pics_final_device.pdf)
