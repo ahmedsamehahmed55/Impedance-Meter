@@ -12,12 +12,18 @@ was capable of providing accurate impedance measurements with an error of 6% ove
 of 300 Ω to 0.7 MΩ.
 
 
+## Impedance Meter Schematic
+
+<img src="Impedance-measurement-CAD-Schematics-testing/Schematic_Impedance_meter.png" width="600" alt="Impedance Meter Schematic">
+
 
 ## Device Image
 
 Here is a picture of the device:
 
 <img src="Impedance-measurement-CAD-Schematics-testing/pic_device.jpg" width="400" alt="Device Picture">
+
+
 
 
 ---
