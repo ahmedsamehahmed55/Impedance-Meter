@@ -29,4 +29,4 @@ Here is a picture of the device:
 
 
 ---
-# [Download the full project report (PDF)](Impedance-measurement-CAD-Schematics-testing/Pics_final_device.pdf)
+# [View all building steps (PDF)](Impedance-measurement-CAD-Schematics-testing/Pics_final_device.pdf)
